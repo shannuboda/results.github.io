@@ -437,7 +437,7 @@ window.open ("#");
 else if(password=="19KH1A05A6")
 {
 window.open ("#");
-}
+}....,
 else
 {
 alert('You Enterd A Wrong Hall Ticket Number Please Refresh The Page And Try Again');
@@ -454,6 +454,6 @@ if (okToRefresh)
 <p align="center"><img src="LOGOG.icon.jpg"></p>
 <h2 align="center"><a href="javascript:confirmRefresh();">Refresh Page</a></h2>
 <font face="Bernard MT Condensed" size="7" color="red">
-<marquee bgcolor="yellow"> THANKYOU </marquee></font> 
+<marquee bgcolor="yellow"> THIS PAGE UNDER CONSTRUCTION WILL UPDATE SOON.......THANKYOU </marquee></font> 
 </body>
 </html>
