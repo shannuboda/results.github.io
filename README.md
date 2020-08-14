@@ -1,13 +1,24 @@
 <html>
 <title> ENGINEERING MATERIALS R19 RESULTS </title>
+<head>
+<style type="text/css">
+h2 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+ </style>
+ </head>
 <body>
 <script language ="javascript">
 <!--hide
 var password;
-password=prompt('enter password','');
+password=prompt('ENTER YOUR HALLTICKET NUMBER ','');
 if(password=="19KH1A0501")
 {
-window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/1cb0cbc516794061a68b23c8368cbdaf?fileName=501.pdf");
+window.open ("https://drive.google.com/file/d/1FE-lROzHn-msE1RM_273-ehCWNtJCATy/view?usp=sharing");
 }
 else if(password=="19KH1A0502")
 {
@@ -431,7 +442,18 @@ else
 {
 alert('You Enterd A Wrong Hall Ticket Number Please Refresh The Page And Try Again');
 }
+function confirmRefresh() {
+var okToRefresh = confirm("Do you really want to refresh the page?");
+if (okToRefresh)
+	{
+			setTimeout("location.reload(true);",1500);
+	}
+}
 //-->
 </script>
+<p align="center"><img src="LOGOG.icon.jpg"></p>
+<h2 align="center"><a href="javascript:confirmRefresh();">Refresh Page</a></h2>
+<font face="Bernard MT Condensed" size="7" color="red">
+<marquee bgcolor="yellow"> THANKYOU </marquee></font> 
 </body>
 </html>
