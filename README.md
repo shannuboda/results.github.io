@@ -7,28 +7,28 @@ var password;
 password=prompt('enter password','');
 if(password=="19KH1A0501")
 {
-window.open ("https://login.websitebuilder.com/login?utm_source=websitebuilder&utm_medium=false");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/1cb0cbc516794061a68b23c8368cbdaf?fileName=501.pdf");
 }
 else if(password=="19KH1A0502")
 {
-window.open ("#");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/8c81c626197146ba815f8a78e7134217?fileName=502.pdf");
 }
 else if(password=="19KH1A0503")
 {
-window.open ("#");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/9ead432eaa074d08bbad46b737c2203c?fileName=503.pdf");
 }
 else if(password=="19KH1A0504")
 {
-window.open ("#");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/27fa4ea8e9754497acc041a993cf71eb?fileName=504.pdf");
 }
 else if(password=="19KH1A0505")
 {
-window.open ("#");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/49b4090a9c524057a16314ee4c6461fe?fileName=505.pdf");
 }
 
 else if(password=="19KH1A0506")
 {
-window.open ("#");
+window.open ("https://storage.googleapis.com/production-websitebuilder-v1-0-2/022/273022/ohyxSXu9/ddf87d63f00d4ea0b31a6dad0b303d1d?fileName=506.pdf");
 }
 else if(password=="19KH1A0507")
 {
