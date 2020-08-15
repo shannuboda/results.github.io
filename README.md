@@ -9,6 +9,11 @@ h2 {
     border-right-width: 10px;
     border-color: red;
 }
+body{
+ background-image:url(bg-01.jpg);
+ background-size: cover;
+ background-attachment: fixed;
+ }
  </style>
  </head>
 <body>
